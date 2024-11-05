@@ -44,7 +44,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-
+| [Tekever](https://www.tekever.com/) [:rocket:](https://www.tekever.com/careers/) | Drone and software solutions for defense and maritime operations. | `Caldas da Rainha` `Lisboa` |
 
 ## Automotive :oncoming_automobile:
 

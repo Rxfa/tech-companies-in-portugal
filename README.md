@@ -15,6 +15,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 
 ### Categories
 
+- [Aerospace :airplane:](#aerospace-airplane)
 - [Automotive :oncoming_automobile:](#automotive-oncoming_automobile)
 - [Consultancy :man_office_worker:](#consultancy-man_office_worker-broad-dizzy)
   - [Broad :dizzy:](#consultancy-man_office_worker-broad-dizzy)
@@ -36,7 +37,13 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 - [Social :couple:](#social-couple)
 - [Sport :soccer:](#sport-soccer)
 - [Telcos :telephone_receiver:](#telcos-telephone_receiver)
-- [Travel :airplane:](#travel-airplane)
+- [Travel :suitcase:](#travel-suitcase)
+
+
+## Aerospace :airplane:
+
+| Company | Description | Locations |
+| :------ | :---------- | :-------- |
 
 
 ## Automotive :oncoming_automobile:
@@ -455,7 +462,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Truphone](https://www.truphone.com) [:rocket:](https://web.truphone.com/careers/) | Global mobile connectivity and eSIM technology innovator. | `Lisboa` |
 
 
-## Travel :airplane:
+## Travel :suitcase:
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |

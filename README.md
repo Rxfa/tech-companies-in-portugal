@@ -54,6 +54,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Nexar](https://data.getnexar.com/) [:rocket:](https://nexar-1702298813.teamtailor.com/#jobs) | Automative data collection and intelligence. | `Porto` |
 | [Nextlane](https://www.nextlane.com/) [:rocket:](https://www.nextlane.com/career/) | Software solutions to optimize automotive logistics and supply chain. | `Lisboa` |
 | [tb.lx](https://tblx.io/) [:rocket:](https://www.tblx.io/careers) | Daimler Trucks and Buses IoT data into intelligent global services. | `Lisboa` |
+| [Sixt](https://www.sixt.com/) [:rocket:](https://www.sixt.jobs/us/jobs?q=&search=at-the-branch&country=PT&role=3310077) | Premium car rental services with flexible options worldwide. | `Lisboa` |
 | [Volkswagen Digital Solutions](https://www.vwds.pt/) [:rocket:](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) | Creating the digital ecosystem for the brands of the Volkswagen Group. | `Lisboa` `Porto` |
 
 
@@ -216,6 +217,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Prozis](https://www.prozis.com/) [:rocket:](https://prozis.breezy.hr/) | Sports and nutrition online store. | `Aveiro` `Esposende` <br> `Porto` |
 | [QuintoAndar](https://www.quintoandar.com.br/) [:rocket:](https://carreiras.quintoandar.com.br/) [:octocat:](https://github.com/quintoandar) | Real Estate platform. | `Lisboa` `Remote` |
 | [Salsify](https://www.salsify.com) [:rocket:](https://www.salsify.com/careers) [:octocat:](https://github.com/salsify) | Product Experience Management and Syndication platform. | `Lisboa` |
+| [Squarespace](https://www.squarespace.com) [:rocket:](https://www.squarespace.com/about/careers?location=aveiro) | All-in-one platform to design, host, and manage beautiful websites. | `Aveiro` |
 | [Threads Styling](https://www.threadsstyling.com/) [:rocket:](https://careers.threadsstyling.com/) | Personalised luxury shopping. Style inspiration. Global community. | `Porto` |
 | [Trouva](https://www.trouva.com) [:rocket:](https://trouva.workable.com/) | Marketplace for independent boutiques. | `Lisboa` |
 | [Turbine Kreuzberg](https://turbinekreuzberg.com/en) [:rocket:](https://turbinekreuzberg.com/en/jobs) | Creates software that advances business and society. | `Faro` `Remote` |
@@ -295,6 +297,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [BVNK](https://www.bvnk.com/) [:rocket:](https://www.bvnk.com/careers) | One platform bridging traditional and decentralised finance. | `Remote` |
 | [Carpe Data](https://carpe.io/) [:rocket:](https://carpe.io/career/) | Next-Generation Data for Insurance. | `Lisboa` |
 | [Checkout.com](https://checkout.com/) [:rocket:](https://checkout.com/careers/) | Payments Platform. | `Porto` |
+| [ComplyAdvantage](https://complyadvantage.com/) [:rocket:](https://complyadvantage.com/careers/jobs/) | AI-driven AML solutions enabling safer and fully compliant businesses. | `Lisboa` |
 | [Euronext](https://www.euronext.com) [:rocket:](https://www.euronext.com/pt/about/careers) | European stock exchange operator. | `Porto` |
 | [Feedzai](https://feedzai.com) [:rocket:](https://careers.feedzai.com) [:octocat:](https://github.com/feedzai) | Fraud detection platform to make commerce safe. | `Coimbra` `Lisboa` <br> `Porto` `Remote` |
 | [Fidel](https://fidel.uk) [:rocket:](https://fidel.uk/careers/) | One API for linking bank cards to digital applications globally. | `Lisboa` |
@@ -311,6 +314,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Natixis](https://natixis.groupebpce.com/) [:rocket:](https://recrutement.natixis.com/) | French corporate and investment bank. | `Porto` |
 | [Onfido](https://www.onfido.com) [:rocket:](https://onfido.com/company/careers/) | Identity verification at the speed of life. | `Lisboa` |
 | [Paddle](https://www.paddle.com) [:rocket:](https://www.paddle.com/careers#open-positions) | Payment and subscription management platform for software vendors. | `Lisboa` |
+| [Planet](https://www.planetpayment.com/) [:rocket:](https://planet.wd3.myworkdayjobs.com/Planet) | Seamless payment solutions for businesses and global transactions. | `Porto` |
 | [Pleo](https://www.pleo.io) [:rocket:](https://www.pleo.io/en/careers/jobs) | Smart payment cards and expense management tools for businesses. | `Lisboa` `Remote` |
 | [Revolut](https://www.revolut.com) [:rocket:](https://www.revolut.com/pt-PT/careers) [:octocat:](https://github.com/revolut-engineering) | A digital banking alternative to conventional banks. | `Lisboa` `Porto` |
 | [Riskified](https://www.riskified.com) [:rocket:](https://www.riskified.com/careers/#positions) | E-commerce fraud prevention. | `Lisboa` |
@@ -398,6 +402,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | :------ | :---------- | :-------- |
 | [Adamant Sec](https://adamantsec.com/) | Pentesting, consulting and audit. | `Porto` |
 | [Barracuda Networks](https://www.barracuda.com/) [:rocket:](https://www.barracuda.com/company/careers) | Builds Security, Networking and Storage products. | `Porto` <br> `Remote` |
+| [BigID](https://bigid.com/) [:rocket:](https://bigid.com/company/careers/) | Data discovery and privacy solutions for managing sensitive data. | `Lisboa` `Porto` |
 | [Bitsight](https://www.bitsight.com/) [:rocket:](https://www.bitsight.com/about/careers) | The Global Leader In Security Ratings. | `Lisboa` `Remote` |
 | [Blaze Information Security](https://www.blazeinfosec.com/) | Pentesting, consulting and research. | `Porto` |
 | [Char49](https://www.char49.com/) | Pentesting, consulting and training. | `Lisboa` |
@@ -411,6 +416,7 @@ Checking the company's Tech stack through [Stackshare](https://stackshare.io/) m
 | [Integrity](https://www.integrity.pt/) [:rocket:](https://www.integrity.pt/careers.html) | Consulting and tech audit focused on information Security. | `Lisboa` |
 | [Jscrambler](https://jscrambler.com) [:rocket:](https://jscrambler.com/careers) | JavaScript application integrity and security. | `Porto` |
 | [Layer8](https://www.layer8.pt) | Consulting, technology, and security managed services. | `Lisboa` |
+| [Malwarebytes](https://www.malwarebytes.com/) [:rocket:](https://www.malwarebytes.com/jobs?p=jobs%2Fviewall) | Advanced cybersecurity tools for malware detection and threat removal. | `Lisboa` |
 | [Multicert](https://www.multicert.com) [:rocket:](https://sibs-sgps.zohorecruit.eu/careers) | CA, enterprise security software products and consulting. | `Lisboa` `Porto` |
 | [NCC Group](https://www.nccgroup.com/pt/) [:rocket:](https://www.nccgroupplc.com/careers/) | Global experts in cyber security and risk mitigation. | `Lisboa` `Remote` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
